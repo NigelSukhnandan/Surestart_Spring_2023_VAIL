@@ -7,7 +7,7 @@
 * Building a simple Neural Network
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+122334566
 
 ## Challenging, interesting, or exciting aspects of today's assignment
 <To be filled>
