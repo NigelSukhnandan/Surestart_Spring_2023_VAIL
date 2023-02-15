@@ -7,10 +7,10 @@
 * Building a simple Neural Network
 
 ## Main takeaways from doing today's assignment
-<To be filled>
+How to add layers and that adding to much can actually make your model less accurate
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-<To be filled>
+Just seeing how the data moves is a bit confusing.
 
 ## Additional resources used 
 <To be filled>
